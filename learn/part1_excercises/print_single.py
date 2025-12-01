@@ -1,0 +1,16 @@
+# Please fix this program so the entire thing is printed on a single line
+# print(5)
+# print(" + ")
+# print(8)
+# print(" - ")
+# print(4)
+# print(" = ")
+# print(5 + 8 - 4)
+
+print(5 , end="")
+print(" + " , end="")
+print(8, end="")
+print(" - ", end="")
+print(4, end="")
+print(" = ", end="")
+print(5 + 8 - 4, end="")
