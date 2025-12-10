@@ -1,6 +1,3 @@
-
-
-
 result = 10 * 16
 
 print("Result is " + (str(result)))
@@ -8,7 +5,7 @@ print("Result is " + (str(result)))
 # You can also write it like this
 
 
-print("Result is " , result)
+print("Result is ", result)
 
 
 # My favorite way to write it!
